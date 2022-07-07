@@ -1,0 +1,20 @@
+
+[ Struktur File & Folder ]
+
+* /foto/ Folder penyimpanan foto
+		
+* /admin/**	
+	Folder CRUD & View Admin
+				- editbrg.php		> File edit barang & proses
+				- hapus.php			> File hapus barang & kategori
+				- index.php			> Halaman dashboard admin
+				- tambahbrg.php		> File tambah barang & proses
+				- tambahkat.php		> File tambah kategori & proses
+
+* koneksi.php 				koneksi ke database
+* header.php & footer.php 	template website
+* kategori.php 				halaman kategori
+* order.php 				halaman order belanja
+* payment.php				halaman proses pembayaran
+
+* index.php	halaman awal
